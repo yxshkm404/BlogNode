@@ -26,3 +26,9 @@ dist-ssr
 
 # environment variables
 .env
+
+# .git remove 
+.git 
+
+# node modules
+node_modules
